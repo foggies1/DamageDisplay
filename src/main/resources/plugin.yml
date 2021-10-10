@@ -1,0 +1,6 @@
+name: DamageDisplay
+version: ${project.version}
+main: xyz.foggies.damagedisplay.DamageDisplay
+api-version: 1.16
+authors: [ foggies ]
+description: A custom plugin to display damage when an entity is attacked
